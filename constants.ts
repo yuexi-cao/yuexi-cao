@@ -89,7 +89,8 @@ export const RESEARCH_DATA: ResearchData = {
     {
       id: "wp-1",
       title: "Internal Networks and the Geography of Knowledge Spillovers",
-      authors: ["Puyang Sun", "Yili Liu", "Yuexi Cao"],
+      //authors: ["Puyang Sun", "Yili Liu", "Yuexi Cao"],
+      authors: ["with Puyang Sun", "Yili Liu"],
       year: "2025. R&R.",
       status: "working_paper",
       abstract:
@@ -103,7 +104,7 @@ export const RESEARCH_DATA: ResearchData = {
     {
       id: "wp-2",
       title: "Housing Rights and the Urban Integration of Migrant Workers",
-      authors: ["Haoze Li", "Shouying Liu", "Puyang Sun", "Yuexi Cao"],
+      authors: ["with Haoze Li", "Shouying Liu", "Puyang Sun"],
       year: "2024. R&R.",
       status: "working_paper",
       abstract:
@@ -122,7 +123,7 @@ export const RESEARCH_DATA: ResearchData = {
     {
       id: "wip-1",
       title: "Co-opetition, Information Sharing and M&A outcomes",
-      authors: ["Yuexi Cao", "Puyang Sun", "Yiqing Yang"],
+      authors: ["with Puyang Sun", "Yiqing Yang"],
       year: "2025",
       status: "work_in_progress",
       // 还在早期阶段，可以先不写摘要；准备好后再补充

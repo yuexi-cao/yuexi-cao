@@ -141,7 +141,8 @@ export const TEACHING_DATA: TeachingExperience[] = [
     role: "TA",
     institution: "Renmin University of China",
     period: "Fall 2025",
-    description: "Led weekly recitation sections for 70+ undergraduate students.",
+    description: " ",
+    //description: "Led weekly recitation sections for 70+ undergraduate students.",
     // 课程材料链接占位：
     // 把教学材料放在 public/teaching/game-theory/syllabus.pdf
     // 然后这里写成 "teaching/game-theory/syllabus.pdf"

@@ -74,7 +74,7 @@ export const Hero: React.FC<HeroProps> = ({ profile }) => {
               <img
                 src={profile.image}
                 alt={profile.name}
-                className="w-full h-full object-cover opacity-100 transition-all duration-700 ease-in-out"
+                className="w-full h-full object-cover opacity-95 grayscale transition-all duration-700 ease-in-out hover:grayscale-0"
               />
             </div>
           </div>

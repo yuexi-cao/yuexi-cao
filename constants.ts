@@ -27,7 +27,8 @@ export const PROFILE: Profile = {
 
   // Image: 可以是外链，也可以是 public/assets 里的本地文件
   // 例如：public/assets/profile.png -> "assets/profile.png"
-  image: "assets/profile.png",
+  //image: "assets/profile.png",
+  image:"https://picsum.photos/400/400",
 
   about:
     "I am a senior undergraduate student at Renmin University of China, majoring in Economics and Mathematics. I anticipate obtaining my Bachelor’s Degree by June 2026. Subsequently, I will enroll in Econ PhD Program at Peking University, Guanghua School of Management (GSM).",
